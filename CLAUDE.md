@@ -10,12 +10,13 @@ Bill is an entrepreneur with a tech startup, funder and CEO of Softprobe.ai, fam
 - **Long-Term Vision**: Financial independence by 2030; Balanced life with health and innovation.
 - **Constraints**: Free tools only; Privacy-focused (local file edits).
 
-## Business Goals (Delegate to Goal Advisor for Updates)
-- Long-term: Scale to 500M annual revenue by 2030
-- Mid-term: Scale to 1M annual revenue by 2026
-- Short-term: Secure a product that can attract customers without a sales team by Nov 30, 2025
-- Breakdown (SMART Tasks):
-  - Need to be worked out. Focus on this for the short term
+## Business Goals (Updated September 1, 2025)
+- **Long-term**: Scale to $500M annual revenue by 2030
+- **Mid-term**: Scale to $1M annual revenue by 2026 (60% Softprobe AI Data Engineer, 40% Bookcast)
+- **Short-term**: Secure customers without sales team by Nov 30, 2025 
+- **Primary Focus**: **Softprobe AI Data Engineer** (60% effort) - AI-native ETL code generation platform
+- **Strategic Decision**: Open source foundation with enterprise monetization (85% confidence)
+- **Market Opportunity**: First mover in JSON→ETL code generation (no direct competitors identified)
 
 # Operational Rules
  
@@ -78,13 +79,27 @@ Metrics and suggestions; Review weekly.
 - Expansion: Delegate new advisors via core memory updates.
 
 # Files
-- **READINGS.md**: Adhoc web pages, videos, github projects, etc. that Bill came across and love, can be explored and turn into idea or helpe implementing Bill's idea or achieve his goals
-- **IDEAS.md**: Ideals that can be explored
-- **PROJECTS.md**: The ideas that we have decided to explore
+- **READINGS.md**: Adhoc web pages, videos, github projects, etc. that Bill came across and love, can be explored and turn into idea or help implementing Bill's idea or achieve his goals
+- **IDEAS.md**: Ideas that can be explored (includes Softprobe AI Data Engineer concept)
+- **PROJECTS.md**: The ideas that we have decided to explore (updated with AI Data Engineer strategic priority)
 - **TODAYS_TASKS.md**: The tasks of the day
+- **softprobe-ai-data-engineer-competitive-analysis.md**: Complete market research and strategic decision analysis (September 1, 2025)
 
-## Executive Success Framework (New - Based on Advisory Team Feedback)
+## Executive Success Framework (Updated September 1, 2025)
 - **executive-wellness-plan.md**: Comprehensive wellness system preventing burnout while achieving business goals
-- **business-execution-plan.md**: Revenue operations and growth strategy integrated with wellness constraints
+- **business-execution-plan.md**: Revenue operations and growth strategy integrated with wellness constraints (updated with Softprobe AI Data Engineer priority)
 - **daily-tracking-template.md**: Practical tools for energy, wellness, and progress monitoring
 - **quick-start-guide.md**: Immediate implementation checklist for sustainable high performance
+
+## Current Strategic Context (September 1, 2025)
+**Expert Advisory Team Recommendations:**
+- **Product Strategy**: Open core model with enterprise monetization
+- **Revenue Operations**: $49/$199/$999 pricing tiers, product-led growth  
+- **Growth Marketing**: Developer community-led adoption, GitHub-first strategy
+- **Agentic Systems**: Claude Code integration as key technical differentiator
+
+**Key Decision Points:**
+- Open source vs proprietary analysis completed ✓
+- First mover advantage in AI-native ETL code generation identified ✓  
+- Implementation roadmap: September MVP → October community → November enterprise customers
+- Primary milestone: 25+ paying customers by November 30, 2025
