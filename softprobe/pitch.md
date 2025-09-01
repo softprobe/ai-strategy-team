@@ -88,6 +88,7 @@ The roadmap builds toward fully autonomous AI-operated software, starting from c
 - **Louis Lu, PhD (Chief Scientist)**: Experience at Zoom, Google, Amazon, Microsoft.
 - **Nino Goshkheteliani (Compliance & Marketing)**: Cofounder of HackEthic.
 - **Harry Liu (VP Eng)**: Built 5x CX efficiency at Trip.com.
+- **White Wan**: Architect.
 - **Victor Chapela (Advisor)**: 3 exits, 30+ years in Silicon Valley tech.
 
 The team combines operational scale (Trip.com), AI/research depth, and sales prowess, ensuring execution on the strategy.
