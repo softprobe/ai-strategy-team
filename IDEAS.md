@@ -3,6 +3,8 @@
 
 ## Open Source Claude Code
 
+Project name: Softprobe AI Data Engineer
+
 Claude Code is a powerful AI OS. It's AI based goal-driven, todo list based task break-down and orchestration is powerful. 
 It's not just useful for programming. We have seem many use cases such as generating presentation decks. 
 
@@ -20,6 +22,22 @@ Readings:
 - Aider: https://github.com/Aider-AI/aider
 - AgentGPT: https://github.com/reworkd/AgentGPT
 - AutoGen: https://github.com/microsoft/autogen
+
+## Pathway to the future: Every Business Has Its Own Specialized AI Model
+
+The current mainstream AI models such as ChatGPT and Gemini are stateless and capable of doing everthing. This is expensive and not
+the most effective way. Just like humans are expert of something via learning and practice, every business is likely to train an expert
+model specifically for their own business. Or let the general AI model to learn from their operations. 
+
+Finetuning or training a model requires lots of training data. Softprobe's data collection can potentially provide data samples for AI 
+model training. And Softprobe's AI Data Engineer can potentially can turn those raw JSON messages into structed, AI labeled or synthetic 
+training data for businesses. 
+
+So there could be a long-term strategy approach: 
+
+1. HTTP JSON message recording
+2. AI Data Engineer, or AI ETL
+3. Enterprise model traning service
 
 ## Bookcast
 
